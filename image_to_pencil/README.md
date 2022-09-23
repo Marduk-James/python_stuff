@@ -13,7 +13,7 @@ Including:
 1.  Make sure to comment out your \ in the destinations
     ie. C:\Users\mjame\OneDrive\GitHub\marduk_james\python_stuff\image_to_text\
     becomes:
-    C:\\Users\\mjame\\OneDrive\GitHub\\marduk_james\\python_stuff\\image_to_text\\
+    C:\\\Users\\\mjame\\\OneDrive\\\GitHub\\\marduk_james\\\python_stuff\\\image_to_text\\\
 
 
     
