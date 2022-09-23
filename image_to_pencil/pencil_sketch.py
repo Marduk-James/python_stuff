@@ -14,7 +14,7 @@ import cv2
 from PIL import Image
 
 #   First to tell the program "where" and "what" to look for, with:
-img_location = 'C:\\Users\\mjame\\OneDrive\GitHub\\marduk_james\\python_stuff\\image_to_text\\'
+img_location = 'C:\\Users\\mjame\\OneDrive\\GitHub\\marduk_james\\python_stuff\\image_to_pencil\\'
 filename = 'baby_n_me.jpg'
 
 #   Now we have to read the image:
